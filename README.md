@@ -1,6 +1,4 @@
 # employee-employer-application-using-javascript-css-php-jquery
 i have included the employee employer application form
 
-
-
-please refer Project-Report.docx before proceeding for the project
+to implement this we need to store all the file in a single folder and we need to install XAMPP and through SQL queries we must make a table which suits the code
